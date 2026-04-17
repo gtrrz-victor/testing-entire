@@ -5,6 +5,7 @@
     "checkpoint_remote": {
       "provider": "github",
       "repo": "gtrrz-victor/entire-checkpoints"
-    }
+    },
+    "checkpoints_v2_only": true
   }
 }
